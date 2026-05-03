@@ -119,7 +119,7 @@ custom_css = """
 }
 """
 
-with gr.Blocks() as demo:
+with gr.Blocks(theme=gr.themes.Soft(), css=custom_css) as demo:
     
     gr.HTML("""
         <div style="text-align: center; margin-bottom: 20px;">
@@ -141,4 +141,4 @@ with gr.Blocks() as demo:
     submit_btn.click(fn=analyze_video, inputs=video_input, outputs=text_output)
 
 if __name__ == "__main__":
-    demo.launch(share=True, theme=gr.themes.Soft(), css=custom_css)
+    demo.launch(share=True)
