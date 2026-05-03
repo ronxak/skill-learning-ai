@@ -141,4 +141,4 @@ with gr.Blocks(theme=gr.themes.Soft(), css=custom_css) as demo:
     submit_btn.click(fn=analyze_video, inputs=video_input, outputs=text_output)
 
 if __name__ == "__main__":
-    demo.launch(share=True)
+    demo.launch()
