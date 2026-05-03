@@ -1,18 +1,8 @@
----
-title: Skill Learning AI
-emoji: 🎥
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 5.50.0
-python_version: "3.11"
-app_file: app.py
-pinned: false
----
-
 # Skill Learning AI: Vision-Powered Action Analyzer
 
-![Skill Learning AI](https://img.shields.io/badge/AI-Skill_Learning-blue?style=for-the-badge)
+<a href="https://huggingface.co/spaces/Ronxak/Skill-Learning-AI">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue?style=for-the-badge" alt="Live Demo on Hugging Face">
+  </a>
 ![Gradio](https://img.shields.io/badge/Gradio-UI-orange?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLO11-Vision-green?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-Llama-black?style=for-the-badge)
