@@ -1,13 +1,15 @@
-# Skill Learning AI: Vision-Powered Action Analyzer
-
-<a href="https://huggingface.co/spaces/Ronxak/Skill-Learning-AI">
+<div align="center">
+  <h1>Skill Learning AI</h1>
+  <p>an innovative computer vision and natural language processing pipeline designed to watch video demonstrations and automatically deduce actionable, step-by-step textual instructions. By combining the blazing-fast object detection capabilities of YOLO11 with the advanced temporal reasoning of large language models via Groq, this application serves as an automated "Reverse Engineer" for human activities.</p>
+  
+  <a href="https://huggingface.co/spaces/Ronxak/AI-Surroundings-Guide">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue?style=for-the-badge" alt="Live Demo on Hugging Face">
   </a>
-<a href="https://gradio.app">
+  <a href="https://gradio.app">
   <img src="https://img.shields.io/badge/Gradio-UI-orange?style=for-the-badge">
 </a>
 
-<a href="https://ultralytics.com">
+  <a href="https://ultralytics.com">
   <img src="https://img.shields.io/badge/YOLO11-Vision-green?style=for-the-badge">
 </a>
 
@@ -18,8 +20,9 @@
 <a href="https://opencv.org">
   <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-red?style=for-the-badge">
 </a>
+</div>
 
-**Skill Learning AI** is an innovative computer vision and natural language processing pipeline designed to watch video demonstrations and automatically deduce actionable, step-by-step textual instructions. By combining the blazing-fast object detection capabilities of YOLO11 with the advanced temporal reasoning of large language models via Groq, this application serves as an automated "Reverse Engineer" for human activities.
+---
 
 Whether you're watching a cooking tutorial, a mechanical repair, a DIY craft, or a workout routine, Skill Learning AI breaks down the continuous stream of video into a structured, logical set of tasks.
 
