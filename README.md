@@ -3,10 +3,21 @@
 <a href="https://huggingface.co/spaces/Ronxak/Skill-Learning-AI">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue?style=for-the-badge" alt="Live Demo on Hugging Face">
   </a>
-![Gradio](https://img.shields.io/badge/Gradio-UI-orange?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO11-Vision-green?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-Llama-black?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-red?style=for-the-badge)
+<a href="https://gradio.app">
+  <img src="https://img.shields.io/badge/Gradio-UI-orange?style=for-the-badge">
+</a>
+
+<a href="https://ultralytics.com">
+  <img src="https://img.shields.io/badge/YOLO11-Vision-green?style=for-the-badge">
+</a>
+
+<a href="https://groq.com">
+  <img src="https://img.shields.io/badge/Groq-Llama-black?style=for-the-badge">
+</a>
+
+<a href="https://opencv.org">
+  <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-red?style=for-the-badge">
+</a>
 
 **Skill Learning AI** is an innovative computer vision and natural language processing pipeline designed to watch video demonstrations and automatically deduce actionable, step-by-step textual instructions. By combining the blazing-fast object detection capabilities of YOLO11 with the advanced temporal reasoning of large language models via Groq, this application serves as an automated "Reverse Engineer" for human activities.
 
