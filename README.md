@@ -1,3 +1,14 @@
+---
+title: Skill Learning AI
+emoji: 🎥
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: 5.0.0
+app_file: app.py
+pinned: false
+---
+
 # Skill Learning AI: Vision-Powered Action Analyzer
 
 ![Skill Learning AI](https://img.shields.io/badge/AI-Skill_Learning-blue?style=for-the-badge)
